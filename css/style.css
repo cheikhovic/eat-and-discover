@@ -114,6 +114,10 @@ ul,ol{
 }
 
 /* --- Background Image --- */
+.bg-logo {
+    width: 60;
+    height: 60;
+}
 .bg-image {
 	position:absolute;
 	left:0;
